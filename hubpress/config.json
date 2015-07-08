@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "pokev25",
-    "repositoryName": "pokev25.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"pokev25","repositoryName":"pokev25.github.io","branch":"master"},"site":{"title":"This is Blog","description":"블로그다","logo":"","postsPerPage":"5","url":"https://pokev25.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//pokev25.github.io/themes/Casper"}}
