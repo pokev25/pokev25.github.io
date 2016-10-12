@@ -1,5 +1,5 @@
 = hubpress에 글쓰기를 해봅시다.
-:hp-tags: hubpress
+:hp-tags: hubpress 사용법 
 :hp-alt-title: wriiting hubpress posts
 
 === 제목과 태그달기
