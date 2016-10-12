@@ -1,5 +1,6 @@
 = hubpress 업그레이드
 :hp-tags: hupress
+:hp-alt-title: hubpress upgrade
 
 기존 사용 버전은 0.3
 
