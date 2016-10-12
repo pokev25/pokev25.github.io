@@ -2,9 +2,6 @@
 :hp-tags: hubpress
 :hp-alt-title: wriiting hubpress posts
 
-
-
-
 === 제목과 태그달기
 
  * 첫줄에 = 로 제목을 표시
@@ -13,6 +10,8 @@
  * 포스트 마다 html파일이 생성되는데 *한글 파일명* 은 안되는것 같다.
 +   
 영문 파일명은  :hp-alt-title: title 로 적어준다. 
+
+image::2016/hubparam.png[hpparam]
 
  * 자세한 문장 꾸미기 문법은 http://asciidoctor.org/docs/asciidoc-writers-guide/[AsciiDoc] 문서를 참고
 
