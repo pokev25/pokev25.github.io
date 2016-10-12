@@ -21,11 +21,11 @@ image::2016/upload01.png[upload]
  
  * 다음의 문법으로 이미지를 표시한다.
 
- image::fileanme[주석]
+ image::fileanme[설명]
  
  * 내경우엔 시간이 지나면 한폴더에 수북히 이미지가 쌓일듯 하여 년도폴더를 하나 만들었다.
 
- image::2016/fileanme[주석]
+ image::2016/fileanme[설명]
 
 == 상단 툴바
 
