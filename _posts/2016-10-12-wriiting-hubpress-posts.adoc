@@ -1,5 +1,6 @@
-= hupress에 글쓰기를 해봅시다.
-:hp-tags: hupress
+= hubpress에 글쓰기를 해봅시다.
+:hp-tags: hubpress
+:hp-alt-title: wriiting hubpress posts
 
 https://hubpress.gitbooks.io/writing-blog-posts/content/blog_titles_and_headings.html
 
