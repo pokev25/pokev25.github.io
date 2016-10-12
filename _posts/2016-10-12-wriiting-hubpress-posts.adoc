@@ -4,15 +4,20 @@
 
 https://hubpress.gitbooks.io/writing-blog-posts/content/blog_titles_and_headings.html
 
-== 제목과 태그달기
+
+=== 제목과 태그달기
 
  * 첫줄에 = 로 제목을 표시
  * 제목 아래줄에 parameters로 부가 정보 표시
  * 태그는 :hp-tags 로 태그를 표시한다.
+ * 포스트 마다 html파일이 생성되는데 한글 파일명은 안되는것 같다.
++   
+영문 파일명은  :hp-alt-title: title 로 적어준다. 
 
 https://hubpress.gitbooks.io/writing-blog-posts/content/use_the_images_directory.html
 
-== 이미지 추가
+
+=== 이미지 추가
 
  * 첨부할 이미지는 images경로에 업로드
 
@@ -28,7 +33,8 @@ image::2016/upload01.png[upload]
 
  image::2016/fileanme[설명]
 
-== 상단 툴바
+
+=== 상단 툴바
 
  * 순서대로 글쓰기창 테마, 미리보기, 저장, 게시하기 버튼이다.
 
