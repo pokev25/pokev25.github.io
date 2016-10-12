@@ -2,7 +2,7 @@
 :hp-tags: hubpress
 :hp-alt-title: wriiting hubpress posts
 
-https://hubpress.gitbooks.io/writing-blog-posts/content/blog_titles_and_headings.html
+
 
 
 === 제목과 태그달기
@@ -16,7 +16,7 @@ https://hubpress.gitbooks.io/writing-blog-posts/content/blog_titles_and_headings
 
  * 자세한 문장 꾸미기 문법은 http://asciidoctor.org/docs/asciidoc-writers-guide/[AsciiDoc] 문서를 참고
 
-https://hubpress.gitbooks.io/writing-blog-posts/content/use_the_images_directory.html
+
 
 
 === 이미지 추가
@@ -43,8 +43,11 @@ image::2016/upload01.png[upload]
 image::2016/toolbar01.png[toolbar]
 
 
+참고링크
 
+https://hubpress.gitbooks.io/writing-blog-posts/content/blog_titles_and_headings.html[blog titles and headings]
 
+https://hubpress.gitbooks.io/writing-blog-posts/content/use_the_images_directory.html[use the images directory]
 
 
 
