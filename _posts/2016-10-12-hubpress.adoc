@@ -4,3 +4,17 @@
 
 2016년 10월 12일 기준 최신 버전은 0.6
 
+참고 링크
+
+http://blog.hubpress.io/2016/06/20/Update-Whats-New-in-Version-051.html#_upgrade_your_instance
+
+https://www.youtube.com/watch?v=KCylB780zSM
+
+
+일반적인 upstream의 업데이트 방법으로 진행을 하면 되는데
+
+github페이지에서 바로 머지하는 방법이 있구나.
+
+image::http://github.com/pokev25/pokev25.github.io/images/2016/hub01.png[]
+
+
