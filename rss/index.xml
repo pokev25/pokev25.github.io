@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[my github pages]]></title><description><![CDATA[블로그]]></description><link>https://pokev25.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 12 Oct 2016 04:28:52 GMT</lastBuildDate><atom:link href="https://pokev25.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[hubpress에 글쓰기를 해봅시다.]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[my github pages]]></title><description><![CDATA[블로그]]></description><link>https://pokev25.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 12 Oct 2016 04:32:07 GMT</lastBuildDate><atom:link href="https://pokev25.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[hubpress에 글쓰기를 해봅시다.]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p><a href="https://hubpress.gitbooks.io/writing-blog-posts/content/blog_titles_and_headings.html" class="bare">https://hubpress.gitbooks.io/writing-blog-posts/content/blog_titles_and_headings.html</a></p>
@@ -19,10 +19,13 @@
 <p>태그는 :hp-tags 로 태그를 표시한다.</p>
 </li>
 <li>
-<p>포스트 마다 html파일이 생성되는데 한글 파일명은 안되는것 같다.</p>
+<p>포스트 마다 html파일이 생성되는데 <strong>한글 파일명</strong> 은 안되는것 같다.</p>
 <div class="paragraph">
 <p>영문 파일명은  :hp-alt-title: title 로 적어준다.</p>
 </div>
+</li>
+<li>
+<p>자세한 문장 꾸미기 문법은 <a href="http://asciidoctor.org/docs/asciidoc-writers-guide/">AsciiDoc</a> 문서를 참고</p>
 </li>
 </ul>
 </div>
