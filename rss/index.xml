@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[my github pages]]></title><description><![CDATA[블로그]]></description><link>https://pokev25.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 12 Oct 2016 04:34:21 GMT</lastBuildDate><atom:link href="https://pokev25.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[hubpress에 글쓰기를 해봅시다.]]></title><description><![CDATA[<div class="sect2">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[my github pages]]></title><description><![CDATA[블로그]]></description><link>https://pokev25.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 12 Oct 2016 04:39:01 GMT</lastBuildDate><atom:link href="https://pokev25.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[hubpress에 글쓰기를 해봅시다.]]></title><description><![CDATA[<div class="sect2">
 <h3 id="__">제목과 태그달기</h3>
 <div class="ulist">
 <ul>
@@ -17,6 +17,15 @@
 <p>영문 파일명은  :hp-alt-title: title 로 적어준다.</p>
 </div>
 </li>
+</ul>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://pokev25.github.io/images/2016/hubparam.png" alt="hpparam">
+</div>
+</div>
+<div class="ulist">
+<ul>
 <li>
 <p>자세한 문장 꾸미기 문법은 <a href="http://asciidoctor.org/docs/asciidoc-writers-guide/">AsciiDoc</a> 문서를 참고</p>
 </li>
