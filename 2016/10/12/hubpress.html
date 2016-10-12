@@ -13,7 +13,7 @@
     <link rel="shortcut icon" href="https://pokev25.github.io/favicon.ico">
 
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:400,700,400italic,700italic|Open+Sans:400italic,700italic,700,400">
-    <link rel="stylesheet" type="text/css" href="//pokev25.github.io/themes/roon/assets/css/screen.css?v=1476237616341" />
+    <link rel="stylesheet" type="text/css" href="//pokev25.github.io/themes/roon/assets/css/screen.css?v=1476238621356" />
 
     <link rel="canonical" href="https://pokev25.github.io/2016/10/12/hubpress.html" />
     <meta name="referrer" content="origin" />
@@ -21,11 +21,11 @@
     <meta property="og:site_name" content="dummy github pages" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="hubpress 업그레이드" />
-    <meta property="og:description" content="기존 사용 버전은 0.3 2016년 10월 12일 기준 최신 버전은 0.6 참고 링크 http://blog.hubpress.io/2016/06/20/Update-Whats-New-in-Version-051.html#_upgrade_your_instance https://www.youtube.com/watch?v&#x3D;KCylB780zSM 일반적인 upstream의 업데이트 방법으로 진행을 하면 되는데 github페이지에서 바로 머지하는 방법이 있구나." />
+    <meta property="og:description" content="기존 사용 버전은 0.3 2016년 10월 12일 기준 최신 버전은 0.6 참고 링크 http://blog.hubpress.io/2016/06/20/Update-Whats-New-in-Version-051.html#_upgrade_your_instance https://www.youtube.com/watch?v&#x3D;KCylB780zSM 일반적인 upstream의 업데이트 방법으로 진행을 하면 되는데 github페이지에서 바로 머지하는 방법이 있구나. hubpress를 fork한 저장소로 이동하여" />
     <meta property="og:url" content="https://pokev25.github.io/2016/10/12/hubpress.html" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="hubpress 업그레이드" />
-    <meta name="twitter:description" content="기존 사용 버전은 0.3 2016년 10월 12일 기준 최신 버전은 0.6 참고 링크 http://blog.hubpress.io/2016/06/20/Update-Whats-New-in-Version-051.html#_upgrade_your_instance https://www.youtube.com/watch?v&#x3D;KCylB780zSM 일반적인 upstream의 업데이트 방법으로 진행을 하면 되는데 github페이지에서 바로 머지하는 방법이 있구나." />
+    <meta name="twitter:description" content="기존 사용 버전은 0.3 2016년 10월 12일 기준 최신 버전은 0.6 참고 링크 http://blog.hubpress.io/2016/06/20/Update-Whats-New-in-Version-051.html#_upgrade_your_instance https://www.youtube.com/watch?v&#x3D;KCylB780zSM 일반적인 upstream의 업데이트 방법으로 진행을 하면 되는데 github페이지에서 바로 머지하는 방법이 있구나. hubpress를 fork한 저장소로 이동하여" />
     <meta name="twitter:url" content="https://pokev25.github.io/2016/10/12/hubpress.html" />
     
     <script type="application/ld+json">
@@ -69,10 +69,90 @@ null
 <div class="paragraph">
 <p>github페이지에서 바로 머지하는 방법이 있구나.</p>
 </div>
+<div class="ulist">
+<ul>
+<li>
+<p>hubpress를 fork한 저장소로 이동하여 compare를 누른다.</p>
+</li>
+</ul>
+</div>
 <div class="imageblock">
 <div class="content">
-<img src="http://github.com/pokev25/pokev25.github.io/images/2016/hub01.png" alt="hub01.png">
+<img src="https://pokev25.github.io/images/2016/hub01.png" alt="compare">
 </div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>fork이후의 수정내역이 비교되어 나오는데
+base를 내 저장소로 변경</p>
+</li>
+</ul>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://pokev25.github.io/images/2016/hub02.png" alt="hub02.png">
+</div>
+</div>
+<div class="paragraph">
+<p>다음의 화면으로 바뀌면 compare across forks를 클릭.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://pokev25.github.io/images/2016/hub03.png" alt="hub03.png">
+</div>
+</div>
+<div class="paragraph">
+<p>head를 hubpress로 변경</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://pokev25.github.io/images/2016/hub04.png" alt="hub04.png">
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Able to merge 로 나오면 create pull request를 누른다.</p>
+</li>
+</ul>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://pokev25.github.io/images/2016/hub05.png" alt="hub05.png">
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>pull request메시지를 적당히 적어준다.</p>
+</li>
+</ul>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://pokev25.github.io/images/2016/hub06.png" alt="hub06.png">
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>이렇게 하면되나? 하고 눌러보다 캡쳐를 못하였다.
+pull request가 내 저장소에 들어와 있는것을 수락해주면
+자연스럽게 업그레이드가 된다.</p>
+</li>
+</ul>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://pokev25.github.io/images/2016/hub07.png" alt="hub07.png">
+</div>
+</div>
+<div class="paragraph">
+<p>이제 관리자 페이지로 로그인해서 설정을 한번 눌러주면 된다.</p>
+</div>
+<div class="paragraph">
+<p>0.6 버전에는 업그레이드 확인 버튼이 있는데 pull request 만드는 화면으롤 바로 가기이다.</p>
 </div>
         </div>
 
