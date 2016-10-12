@@ -1,4 +1,4 @@
-# hubpress 업그레이드
+= hubpress 업그레이드
 
 기존 사용 버전은 0.3
 
