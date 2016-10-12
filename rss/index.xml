@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[my github pages]]></title><description><![CDATA[블로그]]></description><link>https://pokev25.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 12 Oct 2016 04:32:07 GMT</lastBuildDate><atom:link href="https://pokev25.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[hubpress에 글쓰기를 해봅시다.]]></title><description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="paragraph">
-<p><a href="https://hubpress.gitbooks.io/writing-blog-posts/content/blog_titles_and_headings.html" class="bare">https://hubpress.gitbooks.io/writing-blog-posts/content/blog_titles_and_headings.html</a></p>
-</div>
-</div>
-</div>
-<div class="sect2">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[my github pages]]></title><description><![CDATA[블로그]]></description><link>https://pokev25.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 12 Oct 2016 04:34:21 GMT</lastBuildDate><atom:link href="https://pokev25.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[hubpress에 글쓰기를 해봅시다.]]></title><description><![CDATA[<div class="sect2">
 <h3 id="__">제목과 태그달기</h3>
 <div class="ulist">
 <ul>
@@ -28,9 +21,6 @@
 <p>자세한 문장 꾸미기 문법은 <a href="http://asciidoctor.org/docs/asciidoc-writers-guide/">AsciiDoc</a> 문서를 참고</p>
 </li>
 </ul>
-</div>
-<div class="paragraph">
-<p><a href="https://hubpress.gitbooks.io/writing-blog-posts/content/use_the_images_directory.html" class="bare">https://hubpress.gitbooks.io/writing-blog-posts/content/use_the_images_directory.html</a></p>
 </div>
 </div>
 <div class="sect2">
@@ -84,6 +74,15 @@
 <div class="content">
 <img src="https://pokev25.github.io/images/2016/toolbar01.png" alt="toolbar">
 </div>
+</div>
+<div class="paragraph">
+<p>참고링크</p>
+</div>
+<div class="paragraph">
+<p><a href="https://hubpress.gitbooks.io/writing-blog-posts/content/blog_titles_and_headings.html">blog titles and headings</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://hubpress.gitbooks.io/writing-blog-posts/content/use_the_images_directory.html">use the images directory</a></p>
 </div>
 </div>]]></description><link>https://pokev25.github.io/2016/10/12/wriiting-hubpress-posts.html</link><guid isPermaLink="true">https://pokev25.github.io/2016/10/12/wriiting-hubpress-posts.html</guid><category><![CDATA[hubpress]]></category><dc:creator><![CDATA[dummy]]></dc:creator><pubDate>Wed, 12 Oct 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[hubpress 업그레이드]]></title><description><![CDATA[<div class="paragraph">
 <p>기존 사용 버전은 0.3</p>
