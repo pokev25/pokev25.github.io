@@ -1,1 +1,17 @@
-{"meta":{"username":"pokev25","repositoryName":"pokev25.github.io","branch":"master"},"site":{"title":"dummy github pages","description":"간단한 블로그","logo":"","postsPerPage":"5","url":"https://pokev25.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//pokev25.github.io/themes/Casper"}}
+{
+  "meta": {
+    "username": "pokev25",
+    "repositoryName": "pokev25.github.io",
+    "branch": "master"
+  },
+  "site": {
+    "title": "dummy github pages",
+    "description": "간단한 블로그",
+    "logo": "",
+    "postsPerPage": "5"
+  },
+  "socialnetwork": {},
+  "theme": {
+    "name": "casper"
+  }
+}
