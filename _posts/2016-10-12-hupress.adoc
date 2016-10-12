@@ -3,22 +3,22 @@
 
 https://hubpress.gitbooks.io/writing-blog-posts/content/blog_titles_and_headings.html
 
-1. 제목과 태그달기
+== 제목과 태그달기
 
-  * 첫줄에 = 로 제목을 표시
-  * 제목 아래줄에 parameters로 부가 정보 표시
-   * 태그는 :hp-tags 로 태그를 표시한다.
+ * 첫줄에 = 로 제목을 표시
+ * 제목 아래줄에 parameters로 부가 정보 표시
+ * 태그는 :hp-tags 로 태그를 표시한다.
 
 https://hubpress.gitbooks.io/writing-blog-posts/content/use_the_images_directory.html
 
-2.이미지 추가
+== 이미지 추가
 
  * 첨부할 이미지는 images경로에 업로드
 
  * github웹페이지에서 직접 업로드를 하거나 일반적인 git사용방법으로 커밋을해도된다.
 
 image::2016/upload01.png[upload]
-
+ 
  * 다음의 문법으로 이미지를 표시한다.
 
  image::fileanme[주석]
@@ -27,8 +27,9 @@ image::2016/upload01.png[upload]
 
  image::2016/fileanme[주석]
 
+== 상단 툴바
 
-3. 상단 툴바는 순서대로 글쓰기창 테마, 미리보기, 저장, 게시하기 버튼이다.
+ * 순서대로 글쓰기창 테마, 미리보기, 저장, 게시하기 버튼이다.
 
 image::2016/toolbar01.png[toolbar]
 
