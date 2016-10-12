@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[dummy github pages]]></title><description><![CDATA[간단한 블로그]]></description><link>https://pokev25.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 12 Oct 2016 02:19:09 GMT</lastBuildDate><atom:link href="https://pokev25.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[hubpress 업그레이드]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[dummy github pages]]></title><description><![CDATA[간단한 블로그]]></description><link>https://pokev25.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 12 Oct 2016 02:22:11 GMT</lastBuildDate><atom:link href="https://pokev25.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[hubpress 업그레이드]]></title><description><![CDATA[<div class="paragraph">
 <p>기존 사용 버전은 0.3</p>
 </div>
 <div class="paragraph">
@@ -103,4 +103,4 @@ pull request가 내 저장소에 들어와 있는것을 수락해주면
 </div>
 <div class="paragraph">
 <p>0.6 버전에는 업그레이드 확인 버튼이 있는데 pull request 만드는 화면으롤 바로 가기이다.</p>
-</div>]]></description><link>https://pokev25.github.io/2016/10/12/hubpress.html</link><guid isPermaLink="true">https://pokev25.github.io/2016/10/12/hubpress.html</guid><dc:creator><![CDATA[dummy]]></dc:creator><pubDate>Wed, 12 Oct 2016 00:00:00 GMT</pubDate></item></channel></rss>
+</div>]]></description><link>https://pokev25.github.io/2016/10/12/hubpress.html</link><guid isPermaLink="true">https://pokev25.github.io/2016/10/12/hubpress.html</guid><dc:creator><![CDATA[dummy]]></dc:creator><pubDate>Wed, 12 Oct 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[hubpress r]]></title><link>https://pokev25.github.io/2016/10/12/hubpress-r.html</link><guid isPermaLink="true">https://pokev25.github.io/2016/10/12/hubpress-r.html</guid><dc:creator><![CDATA[dummy]]></dc:creator><pubDate>Wed, 12 Oct 2016 00:00:00 GMT</pubDate></item></channel></rss>
