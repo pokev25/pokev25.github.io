@@ -10,9 +10,11 @@ https://hubpress.gitbooks.io/writing-blog-posts/content/blog_titles_and_headings
  * 첫줄에 = 로 제목을 표시
  * 제목 아래줄에 parameters로 부가 정보 표시
  * 태그는 :hp-tags 로 태그를 표시한다.
- * 포스트 마다 html파일이 생성되는데 한글 파일명은 안되는것 같다.
+ * 포스트 마다 html파일이 생성되는데 *한글 파일명* 은 안되는것 같다.
 +   
 영문 파일명은  :hp-alt-title: title 로 적어준다. 
+
+ * 자세한 문장 꾸미기 문법은 http://asciidoctor.org/docs/asciidoc-writers-guide/[AsciiDoc] 문서를 참고
 
 https://hubpress.gitbooks.io/writing-blog-posts/content/use_the_images_directory.html
 
