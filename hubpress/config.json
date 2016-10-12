@@ -5,8 +5,8 @@
     "branch": "master"
   },
   "site": {
-    "title": "dummy github pages",
-    "description": "간단한 블로그",
+    "title": "my github pages",
+    "description": "블로그",
     "logo": "",
     "postsPerPage": "5"
   },
