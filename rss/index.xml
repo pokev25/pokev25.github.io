@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[dummy github pages]]></title><description><![CDATA[간단한 블로그]]></description><link>https://pokev25.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 12 Oct 2016 02:41:54 GMT</lastBuildDate><atom:link href="https://pokev25.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[hupress에 글쓰기를 해봅시다.]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[dummy github pages]]></title><description><![CDATA[간단한 블로그]]></description><link>https://pokev25.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 12 Oct 2016 02:45:50 GMT</lastBuildDate><atom:link href="https://pokev25.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[hupress에 글쓰기를 해봅시다.]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
 <p><a href="https://hubpress.gitbooks.io/writing-blog-posts/content/blog_titles_and_headings.html" class="bare">https://hubpress.gitbooks.io/writing-blog-posts/content/blog_titles_and_headings.html</a></p>
 </div>
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>제목과 태그달기</p>
+</div>
+</div>
+<div class="sect1">
+<h2 id="__">제목과 태그달기</h2>
+<div class="sectionbody">
 <div class="ulist">
 <ul>
 <li>
@@ -18,15 +21,14 @@
 </li>
 </ul>
 </div>
-</li>
-</ol>
-</div>
 <div class="paragraph">
 <p><a href="https://hubpress.gitbooks.io/writing-blog-posts/content/use_the_images_directory.html" class="bare">https://hubpress.gitbooks.io/writing-blog-posts/content/use_the_images_directory.html</a></p>
 </div>
-<div class="paragraph">
-<p>2.이미지 추가</p>
 </div>
+</div>
+<div class="sect1">
+<h2 id="___2">이미지 추가</h2>
+<div class="sectionbody">
 <div class="ulist">
 <ul>
 <li>
@@ -59,19 +61,26 @@
 <pre>image::2016/fileanme[주석]</pre>
 </div>
 </div>
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>상단 툴바는 순서대로 글쓰기창 테마, 미리보기, 저장, 게시하기 버튼이다.</p>
 </li>
-</ol>
+</ul>
 </div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="___3">상단 툴바</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>순서대로 글쓰기창 테마, 미리보기, 저장, 게시하기 버튼이다.</p>
 </li>
 </ul>
 </div>
 <div class="imageblock">
 <div class="content">
 <img src="https://pokev25.github.io/images/2016/toolbar01.png" alt="toolbar">
+</div>
+</div>
 </div>
 </div>]]></description><link>https://pokev25.github.io/2016/10/12/hupress.html</link><guid isPermaLink="true">https://pokev25.github.io/2016/10/12/hupress.html</guid><category><![CDATA[hupress]]></category><dc:creator><![CDATA[dummy]]></dc:creator><pubDate>Wed, 12 Oct 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[hubpress 업그레이드]]></title><description><![CDATA[<div class="paragraph">
 <p>기존 사용 버전은 0.3</p>
