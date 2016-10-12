@@ -1,3 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[dummy github pages]]></title><description><![CDATA[간단한 블로그]]></description><link>https://pokev25.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 12 Oct 2016 01:43:05 GMT</lastBuildDate><atom:link href="https://pokev25.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Test]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[dummy github pages]]></title><description><![CDATA[간단한 블로그]]></description><link>https://pokev25.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 12 Oct 2016 02:00:16 GMT</lastBuildDate><atom:link href="https://pokev25.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[hubpress 업그레이드]]></title><description><![CDATA[<div class="paragraph">
+<p>기존 사용 버전은 0.3</p>
+</div>
+<div class="paragraph">
+<p>2016년 10월 12일 기준 최신 버전은 0.6</p>
+</div>
+<div class="paragraph">
+<p>참고 링크</p>
+</div>
+<div class="paragraph">
+<p><a href="http://blog.hubpress.io/2016/06/20/Update-Whats-New-in-Version-051.html#_upgrade_your_instance" class="bare">http://blog.hubpress.io/2016/06/20/Update-Whats-New-in-Version-051.html#_upgrade_your_instance</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://www.youtube.com/watch?v=KCylB780zSM" class="bare">https://www.youtube.com/watch?v=KCylB780zSM</a></p>
+</div>
+<div class="paragraph">
+<p>일반적인 upstream의 업데이트 방법으로 진행을 하면 되는데</p>
+</div>
+<div class="paragraph">
+<p>github페이지에서 바로 머지하는 방법이 있구나.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="http://github.com/pokev25/pokev25.github.io/images/2016/hub01.png" alt="hub01.png">
+</div>
+</div>]]></description><link>https://pokev25.github.io/2016/10/12/hubpress.html</link><guid isPermaLink="true">https://pokev25.github.io/2016/10/12/hubpress.html</guid><dc:creator><![CDATA[dummy]]></dc:creator><pubDate>Wed, 12 Oct 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Test]]></title><description><![CDATA[<div class="paragraph">
 <p>이건 테스트 임</p>
 </div>]]></description><link>https://pokev25.github.io/2015/07/08/Test.html</link><guid isPermaLink="true">https://pokev25.github.io/2015/07/08/Test.html</guid><dc:creator><![CDATA[dummy]]></dc:creator><pubDate>Wed, 08 Jul 2015 00:00:00 GMT</pubDate></item></channel></rss>
