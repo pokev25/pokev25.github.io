@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[my github pages]]></title><description><![CDATA[블로그]]></description><link>https://pokev25.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 12 Oct 2016 04:11:50 GMT</lastBuildDate><atom:link href="https://pokev25.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[hubpress에 글쓰기를 해봅시다.]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[my github pages]]></title><description><![CDATA[블로그]]></description><link>https://pokev25.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 12 Oct 2016 04:27:05 GMT</lastBuildDate><atom:link href="https://pokev25.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[hubpress에 글쓰기를 해봅시다.]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p><a href="https://hubpress.gitbooks.io/writing-blog-posts/content/blog_titles_and_headings.html" class="bare">https://hubpress.gitbooks.io/writing-blog-posts/content/blog_titles_and_headings.html</a></p>
 </div>
 </div>
 </div>
-<div class="sect1">
-<h2 id="__">제목과 태그달기</h2>
-<div class="sectionbody">
+<div class="sect2">
+<h3 id="__">제목과 태그달기</h3>
 <div class="ulist">
 <ul>
 <li>
@@ -19,16 +18,20 @@
 <li>
 <p>태그는 :hp-tags 로 태그를 표시한다.</p>
 </li>
+<li>
+<p>포스트 마다 html파일이 생성되는데 한글 파일명은 안되는것 같다.</p>
+<div class="paragraph">
+<p>영문 파일명은  :hp-alt-title: title 로 적어준다.</p>
+</div>
+</li>
 </ul>
 </div>
 <div class="paragraph">
 <p><a href="https://hubpress.gitbooks.io/writing-blog-posts/content/use_the_images_directory.html" class="bare">https://hubpress.gitbooks.io/writing-blog-posts/content/use_the_images_directory.html</a></p>
 </div>
 </div>
-</div>
-<div class="sect1">
-<h2 id="___2">이미지 추가</h2>
-<div class="sectionbody">
+<div class="sect2">
+<h3 id="___2">이미지 추가</h3>
 <div class="ulist">
 <ul>
 <li>
@@ -65,10 +68,8 @@
 </ul>
 </div>
 </div>
-</div>
-<div class="sect1">
-<h2 id="___3">상단 툴바</h2>
-<div class="sectionbody">
+<div class="sect2">
+<h3 id="___3">상단 툴바</h3>
 <div class="ulist">
 <ul>
 <li>
@@ -79,7 +80,6 @@
 <div class="imageblock">
 <div class="content">
 <img src="https://pokev25.github.io/images/2016/toolbar01.png" alt="toolbar">
-</div>
 </div>
 </div>
 </div>]]></description><link>https://pokev25.github.io/2016/10/12/wriiting-hubpress-posts.html</link><guid isPermaLink="true">https://pokev25.github.io/2016/10/12/wriiting-hubpress-posts.html</guid><category><![CDATA[hubpress]]></category><dc:creator><![CDATA[dummy]]></dc:creator><pubDate>Wed, 12 Oct 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[hubpress 업그레이드]]></title><description><![CDATA[<div class="paragraph">
