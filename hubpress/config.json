@@ -2,16 +2,38 @@
   "meta": {
     "username": "pokev25",
     "repositoryName": "pokev25.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "site": {
     "title": "my github pages",
     "description": "블로그",
     "logo": "",
-    "postsPerPage": "5"
+    "postsPerPage": "5",
+    "cover": "",
+    "delay": "",
+    "googleAnalytics": "",
+    "disqus": "dummy2017.disqus.com"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "email": "",
+    "github": "",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
+  },
   "theme": {
     "name": "roon"
+  },
+  "urls": {
+    "site": "https://pokev25.github.io",
+    "hubpress": "http://pokev25.github.io",
+    "theme": "//pokev25.github.io/themes/roon",
+    "images": "https://pokev25.github.io/images"
   }
 }
