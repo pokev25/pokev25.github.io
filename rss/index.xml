@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[my github pages]]></title><description><![CDATA[블로그]]></description><link>https://pokev25.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 12 Oct 2016 08:59:05 GMT</lastBuildDate><atom:link href="https://pokev25.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[hubpress에 글쓰기를 해봅시다.]]></title><description><![CDATA[<div class="sect2">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[my github pages]]></title><description><![CDATA[블로그]]></description><link>https://pokev25.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 22 Mar 2017 09:49:02 GMT</lastBuildDate><atom:link href="https://pokev25.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[hubpress에 글쓰기를 해봅시다.]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>사용법</p>
+</div>
+</div>
+</div>
+<div class="sect2">
 <h3 id="__">제목과 태그달기</h3>
 <div class="ulist">
 <ul>
