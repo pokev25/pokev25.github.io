@@ -35,5 +35,15 @@
     "hubpress": "http://pokev25.github.io",
     "theme": "//pokev25.github.io/themes/roon",
     "images": "https://pokev25.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
