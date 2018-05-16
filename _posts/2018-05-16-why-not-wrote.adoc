@@ -1,0 +1,19 @@
+// = Your Blog title
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+= 블로그를 잘 안쓰게 된다.
+:hp-alt-title: why not wrote
+
+이게 생각보다 잘 안쓰게 된다..훔..
+
+어떻게 해야 저장이 나오더라
+
+까먹는다 자주 안쓰니까.
+
+아 제목이 있어야 했지..
+
+
+
